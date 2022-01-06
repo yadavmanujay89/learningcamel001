@@ -1,0 +1,7 @@
+.idea/
+.idea/*.xml
+/target
+.DS_Store
+.DS_STORE
+.properties
+.settings
